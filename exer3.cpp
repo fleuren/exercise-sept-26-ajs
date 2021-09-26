@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 	//Code for the Odd or Even Task
-/*cout << "Odd or even checker, please input a whole number." << endl;
+cout << "Odd or even checker, please input a whole number." << endl;
 	int x;
 	cin >> x;
 
@@ -11,11 +11,11 @@ if (x % 2 == 0){
 	cout << "The inputted number is even" << endl;
 }else
 	cout << "The inputted number is odd" << endl;
-*/
+
 
 //Number Checker - If negative, positive, or zero
 
-/*cout << "Please input a number, can be negative positive, or zero, but it must be a whole number." << endl;
+cout << "Please input a number, can be negative positive, or zero, but it must be a whole number." << endl;
 	int x;
 	cin >> x;
 
@@ -27,7 +27,7 @@ if (x == 0){
 	cout << "The number is negative";*/
 
 //Profit or Loss Program
-/*cout << "Input the purchase price, and sale price of an item, and the program will determine whether you made a profit or a loss" << endl;
+cout << "Input the purchase price, and sale price of an item, and the program will determine whether you made a profit or a loss" << endl;
 	double purchase;
 	double sale;
 cout << "Please input the purchase price" << endl;
@@ -41,7 +41,7 @@ if(x <= 0){
 }else
 	cout << "You made a profit" << endl;
 cout << x << endl;
-*/
+
 
 //Shape (Polygon) Identifying Program
 	cout << "Input the amout of sides that a shape has (ex: 5 for a pentagon)" << endl;
