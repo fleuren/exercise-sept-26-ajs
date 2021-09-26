@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	//Code for the Odd or Even Task
+//Code for the Odd or Even Task
 cout << "Odd or even checker, please input a whole number." << endl;
 	int x;
 	cin >> x;
